@@ -1,7 +1,7 @@
 # GoogleTranslate
 谷歌翻译封装
 
-
+```
 [GoogleTranslateHelper translate:text
                                       sourceLanguage:sourceLang
                                       targetLanguage:targetLang
@@ -11,3 +11,4 @@
                                     translateText:resultString];
                         });
                     }];
+```
